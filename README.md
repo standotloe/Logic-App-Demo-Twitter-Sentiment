@@ -1,7 +1,3 @@
----
-title: Logic App Demo: Twitter Sentiment
----
-
 # Logic App Demo
 ## Twitter Sentiment
 
